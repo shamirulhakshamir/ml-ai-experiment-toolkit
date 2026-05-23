@@ -1,7 +1,6 @@
-# Intercom AI Tooling POC
+# ML AI Experiment Toolkit
 
-A proof-of-concept ML tooling framework demonstrating core capabilities for the
-Senior Data Scientist - AI Tooling role at Intercom.
+A personal ML tooling framework for experiment tracking, automated feature selection, and model evaluation — built to demonstrate production-grade ML engineering patterns.
 
 ## Components
 
