@@ -41,7 +41,7 @@ python -m pytest tests/ -v
 ## Project Structure
 
 ```
-POC_Project/
+ml-ai-experiment-toolkit/
   src/
     model_evaluator.py
     feature_selector.py
